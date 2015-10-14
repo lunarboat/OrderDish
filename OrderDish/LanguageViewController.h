@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  LanguageViewController.h
 //  OrderDish
 //
 //  Created by lunarboat on 15/8/24.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface LanguageViewController : UIViewController
 
 @end
-
